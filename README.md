@@ -193,7 +193,7 @@ The application measures and displays:
 
 ## License
 
-MIT License - Use for educational and commercial purposes with proper attribution.
+Use for educational and commercial purposes with proper attribution.
 
 
 
